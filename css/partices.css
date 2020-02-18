@@ -1,0 +1,85 @@
+body {
+	background-color: #f7f7f7;
+	background-size: 100% 30em, auto;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13pt;
+	color: #696969;
+	font-weight: 300;
+	line-height: 2.25em;
+}
+
+b{
+	font-weight: 600;
+	color: #444;
+}
+
+.box {
+	background: #fff;
+	border-radius: 6px;
+	box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
+	padding: 2em;
+	margin: 0 auto;
+	max-width: 100%;
+	width: 1100px;
+}
+
+#banner{
+	position: relative;
+	padding: 4.5em !important;
+}
+
+.topics{
+	height:auto;
+	width:101%; 
+	border:thin solid;
+	border-color :#0000000a;
+	border-left-color: #2dc523;
+	border-left-width: thick;
+	margin-bottom: 5px;
+	font-size: larger
+}
+
+
+
+.magi-row {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+	margin-top: -40px;
+	margin-left: -40px;
+	padding: 40px 0 0 40px;
+}
+
+
+.magi-row > .magi-col {
+	width: 33.33333%;
+}
+
+#header-magi{
+	font-size:30px;
+	text-align: center;
+	font-weight: 600;
+	color: #444;    
+}
+img.sticky {
+  position: fixed;
+  top: 10;
+  width:3%; 
+  right: 9%;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 9%;
+  width:2%; 
+  height:4%;
+}
+
+
+			
+		
+		
+
